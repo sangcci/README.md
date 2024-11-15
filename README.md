@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">dreaming of becoming a backend developer...!<br><br>- 📚 I'm currently learning on Programmers devcourse backend 1st<br>- 🌱 I'm interested in clean code, large-scale traffic control..</p>
+<p align="left">백엔드 개발자를 희망하고 있습니다!<br><br>- 📚 Programmers devcourse backend 1st<br>- 🌱 각종 테스트 및 동시성 처리에 관심이 있습니다</p>
 
 ###
 
